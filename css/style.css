@@ -1,0 +1,54 @@
+
+nav ul a,
+nav .brand-logo {
+  color: white;
+}
+.sect1 .container{
+  height: auto;
+  padding: 60px 0;
+}
+.sect1{
+  padding-top: 0;
+  position: relative;
+}
+.text-parallax{
+  color: #ccc;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.sect1 .container div{
+  margin-bottom: 0px;
+}
+.form-container{
+  max-width: 650px;
+  margin: 0 auto;
+  width: 100%;
+  
+}
+.sect3 h5,.sect4 h5{
+  text-align: center;
+
+}
+.sect4 .circle{
+  width: 45px;
+  height: 45px;
+}
+
+
+.collection .collection-item.avatar:not(.circle-clipper) > .circle{
+  width: 60px;
+  margin-top: 5px;
+  height: 60px;
+}
+
+.collection .collection-item.avatar {
+  padding-left: 90px;
+}
+
+.sect5 .container{
+  padding-top: 30px;
+}
+
+.parallax h2{z-index: 2;}
